@@ -15,7 +15,7 @@ Excel Upload and Data Analytical Dashboard with Charts , History , and AI summar
 - **DB:** MongoDB
 - **Optional:** Three.js (3D charts), OpenAI API (summaries)
 
-## 🛠️ Getting Started (Local)
+## 🛠️ Getting Started
 ```bash
 git clone <repo-url>
 cd exanaly
